@@ -1,0 +1,1 @@
+Neste projeto vou mostrar como usar HTML, CSS e JavaScript modernos para criar um design de página de login completo com animações de login e inscrição. Estaremos usando CSS Flexbox, transição CSS para alguns efeitos de animação interessantes e também quadros-chave CSS!
